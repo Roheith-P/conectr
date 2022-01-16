@@ -1,3 +1,3 @@
 echo Connecting...
-sleep 2000
+sleep 10
 echo ok
