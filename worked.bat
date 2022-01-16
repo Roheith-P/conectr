@@ -1,2 +1,3 @@
-echo Hello now passed
-pause
+echo Connecting...
+sleep 2000
+echo ok
